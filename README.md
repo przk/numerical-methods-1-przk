@@ -1,6 +1,6 @@
 ##### Zadanie 1 dla grupy @jakryd-teaching/numerical-methods
 
-Iloczyn Hadamarda dwóch macierzy A i B o wymiarach m \times n oznaczany przez A
+Iloczyn Hadamarda dwóch macierzy $A$ i $B$ o wymiarach m \times n oznaczany przez A
 \bigodot B jest macierzą o wymiarach m \times n daną wzorem: (A \bigodot
 B)_{ij}=A_{ij}B_{ij}.
 
