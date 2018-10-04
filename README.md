@@ -3,9 +3,7 @@ Iloczyn Hadamarda dwóch macierzy *A* i *B* o wymiarach *m* na *n*
 oznaczany przez *AB* jest macierzą o wymiarach *m* na *n* daną 
 wzorem: 
 
-```cpp
-AB[i][j]=A[i][j]*B[i][j]
-```
+`AB[i][j]=A[i][j]*B[i][j]`
 
 Zaimplementuj funkcję `hadamard` przyjmującą *A* i *B* jako 
 argumenty i zwracająca iloczyn Hadamarda *AB*.
