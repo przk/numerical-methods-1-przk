@@ -1,16 +1,14 @@
-##### Zadanie 1 dla grupy @jakryd-teaching/numerical-methods
+#### Zadanie 1 dla grupy @jakryd-teaching/numerical-methods
+Iloczyn Hadamarda dwóch macierzy `A` i `B` o wymiarach `m` na `n` 
+oznaczany przez `AB` jest macierzą o wymiarach `m` na `n` daną 
+wzorem: `AB(i, j)=A(i, j)*B(i, j)`.
 
-Iloczyn Hadamarda dwóch macierzy $A$ i $B$ o wymiarach m \times n oznaczany przez A
-\bigodot B jest macierzą o wymiarach m \times n daną wzorem: (A \bigodot
-B)_{ij}=A_{ij}B_{ij}.
+Zaimplementuj funkcję `hadamard` przyjmującą `A` i `B` jako 
+argumenty i zwracająca iloczyn Hadamarda `AB`.
 
-Zaimplementuj funkcję ```hadamard``` przyjmującą A i B jako argumenty i
-zwracająca iloczyn Hadamarda A \bigodot B.
-
-##### Kompilacja
+#### Kompilacja
 Poprzez wykonanie polecenia `make`.
 
-##### Ocena
-
+#### Ocena
 * poprawność rozwiązania
 * styl implementacji, cf. [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
