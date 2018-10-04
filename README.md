@@ -3,7 +3,7 @@ Iloczyn Hadamarda dwóch macierzy *A* i *B* o wymiarach *m* na *n*
 oznaczany przez *AB* jest macierzą o wymiarach *m* na *n* daną 
 wzorem: 
 
-```c++
+```cpp
 AB[i][j]=A[i][j]*B[i][j]
 ```
 
