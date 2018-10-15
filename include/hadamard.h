@@ -1,6 +1,6 @@
-#ifndef HADAMARD_H_
-#define HADAMARD_H_
+#ifndef HADAMARD_H
+#define HADAMARD_H
 
-// Declare your function here.
+void hadamard(double **, double **, double **, int, int);
 
-#endif // HADAMARD_H_
+#endif //HADAMARD_H
